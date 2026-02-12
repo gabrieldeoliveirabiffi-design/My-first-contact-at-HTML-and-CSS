@@ -1,0 +1,29 @@
+h2 {
+  color: white;
+}
+a {
+  color: lightblue;
+}
+body {
+  background-color: slateblue;
+  font-family: Helvetica;
+}
+p {
+  text-align: center;
+  color: whitesmoke;
+}
+h3 {
+  text-align: center;
+  color: white;
+}
+h4 {
+  color: ghostwhite
+}
+.group {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+#mimo1 {
+  padding: 90px
+}
